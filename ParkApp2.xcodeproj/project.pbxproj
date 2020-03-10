@@ -7,34 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B3F3C00C2417169200BB5057 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FEB6A0412417127E00A5702A /* Info.plist */; };
+		B3F3C00E24171B5300BB5057 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3F3C00D24171B5300BB5057 /* ViewController.swift */; };
+		B3F3C01124171EFC00BB5057 /* closestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3F3C01024171EFC00BB5057 /* closestController.swift */; };
+		B3F3C01224171EFC00BB5057 /* ParkDestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3F3C00F24171EFC00BB5057 /* ParkDestController.swift */; };
 		FEB6A01F2417115700A5702A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB6A01E2417115700A5702A /* AppDelegate.swift */; };
 		FEB6A0212417115700A5702A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB6A0202417115700A5702A /* SceneDelegate.swift */; };
 		FEB6A0282417115800A5702A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEB6A0272417115800A5702A /* Assets.xcassets */; };
 		FEB6A02B2417115800A5702A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEB6A0292417115800A5702A /* LaunchScreen.storyboard */; };
 		FEB6A0352417123200A5702A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEB6A0342417123200A5702A /* Main.storyboard */; };
-		FEB6A03C2417124300A5702A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB6A0372417124300A5702A /* ViewController.swift */; };
-		FEB6A03D2417124300A5702A /* LocationSearchTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB6A0382417124300A5702A /* LocationSearchTable.swift */; };
-		FEB6A03E2417124300A5702A /* ParkDestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB6A0392417124300A5702A /* ParkDestController.swift */; };
-		FEB6A03F2417124300A5702A /* ParkatDestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB6A03A2417124300A5702A /* ParkatDestViewController.swift */; };
-		FEB6A0402417124300A5702A /* closestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB6A03B2417124300A5702A /* closestController.swift */; };
-		FEB6A0422417127E00A5702A /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FEB6A0412417127E00A5702A /* Info.plist */; };
-		FEB6A0442417130000A5702A /* ViewControllers in Resources */ = {isa = PBXBuildFile; fileRef = FEB6A0432417130000A5702A /* ViewControllers */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B3F3C00D24171B5300BB5057 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B3F3C00F24171EFC00BB5057 /* ParkDestController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkDestController.swift; sourceTree = "<group>"; };
+		B3F3C01024171EFC00BB5057 /* closestController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = closestController.swift; sourceTree = "<group>"; };
 		FEB6A01B2417115700A5702A /* ParkApp2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ParkApp2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEB6A01E2417115700A5702A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FEB6A0202417115700A5702A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		FEB6A0272417115800A5702A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEB6A02A2417115800A5702A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FEB6A0342417123200A5702A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		FEB6A0372417124300A5702A /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FEB6A0382417124300A5702A /* LocationSearchTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationSearchTable.swift; sourceTree = "<group>"; };
-		FEB6A0392417124300A5702A /* ParkDestController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParkDestController.swift; sourceTree = "<group>"; };
-		FEB6A03A2417124300A5702A /* ParkatDestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParkatDestViewController.swift; sourceTree = "<group>"; };
-		FEB6A03B2417124300A5702A /* closestController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = closestController.swift; sourceTree = "<group>"; };
 		FEB6A0412417127E00A5702A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FEB6A0432417130000A5702A /* ViewControllers */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ViewControllers; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,29 +61,17 @@
 		FEB6A01D2417115700A5702A /* ParkApp2 */ = {
 			isa = PBXGroup;
 			children = (
+				FEB6A0412417127E00A5702A /* Info.plist */,
 				FEB6A01E2417115700A5702A /* AppDelegate.swift */,
 				FEB6A0202417115700A5702A /* SceneDelegate.swift */,
-				FEB6A0362417124300A5702A /* ViewControllers */,
-				FEB6A0432417130000A5702A /* ViewControllers */,
+				B3F3C00D24171B5300BB5057 /* ViewController.swift */,
+				B3F3C01024171EFC00BB5057 /* closestController.swift */,
+				B3F3C00F24171EFC00BB5057 /* ParkDestController.swift */,
 				FEB6A0342417123200A5702A /* Main.storyboard */,
-				FEB6A0412417127E00A5702A /* Info.plist */,
 				FEB6A0272417115800A5702A /* Assets.xcassets */,
 				FEB6A0292417115800A5702A /* LaunchScreen.storyboard */,
 			);
 			path = ParkApp2;
-			sourceTree = "<group>";
-		};
-		FEB6A0362417124300A5702A /* ViewControllers */ = {
-			isa = PBXGroup;
-			children = (
-				FEB6A0372417124300A5702A /* ViewController.swift */,
-				FEB6A0382417124300A5702A /* LocationSearchTable.swift */,
-				FEB6A0392417124300A5702A /* ParkDestController.swift */,
-				FEB6A03A2417124300A5702A /* ParkatDestViewController.swift */,
-				FEB6A03B2417124300A5702A /* closestController.swift */,
-			);
-			name = ViewControllers;
-			path = "../../Better Wireframe/Better Wireframe/ViewControllers";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -150,9 +132,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FEB6A0422417127E00A5702A /* Info.plist in Resources */,
+				B3F3C00C2417169200BB5057 /* Info.plist in Resources */,
 				FEB6A02B2417115800A5702A /* LaunchScreen.storyboard in Resources */,
-				FEB6A0442417130000A5702A /* ViewControllers in Resources */,
 				FEB6A0282417115800A5702A /* Assets.xcassets in Resources */,
 				FEB6A0352417123200A5702A /* Main.storyboard in Resources */,
 			);
@@ -165,13 +146,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FEB6A03C2417124300A5702A /* ViewController.swift in Sources */,
-				FEB6A0402417124300A5702A /* closestController.swift in Sources */,
+				B3F3C00E24171B5300BB5057 /* ViewController.swift in Sources */,
 				FEB6A01F2417115700A5702A /* AppDelegate.swift in Sources */,
-				FEB6A03E2417124300A5702A /* ParkDestController.swift in Sources */,
-				FEB6A03F2417124300A5702A /* ParkatDestViewController.swift in Sources */,
+				B3F3C01224171EFC00BB5057 /* ParkDestController.swift in Sources */,
 				FEB6A0212417115700A5702A /* SceneDelegate.swift in Sources */,
-				FEB6A03D2417124300A5702A /* LocationSearchTable.swift in Sources */,
+				B3F3C01124171EFC00BB5057 /* closestController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
